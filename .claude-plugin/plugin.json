@@ -45,6 +45,8 @@
     "./skills/productivity/wait-what",
     "./skills/productivity/writing-for-agents",
     "./skills/in-progress/implement-spec",
+    "./skills/in-progress/pr",
+    "./skills/in-progress/retro",
     "./skills/productivity/show-me"
   ]
 }
